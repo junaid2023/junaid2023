@@ -1,15 +1,19 @@
-### Hi there 👋
+![Web Developer](https://pbs.twimg.com/profile_images/1560655855565291520/ka2Eqa47.jpg)
+
+### Hi there 👋,I'm Junaid Ahmed
+#### Web Developer
 
 
-**junaid2023/junaid2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for earning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented and always work with an end goal in mind. Over the past years, 
+I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS.JavaScript as well as PHP.
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS / PHP / PYTHON 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on youtube 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about Web Development 
+
+
+
+
